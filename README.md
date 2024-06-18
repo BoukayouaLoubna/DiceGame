@@ -30,7 +30,7 @@ To run this application locally, ensure you have Java and a Servlet container (e
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/dice-game-2.git
+   git clone https://github.com/BoukayouaLoubna/DiceGame.git
 
  2. Deploy the application on your Servlet container.
 
